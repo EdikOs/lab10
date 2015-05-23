@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>CoffeeScriptCompiler</id>
+    <version>1.2.0</version>
+    <title>CoffeeScript Compiler</title>
+    <authors>Jeremy Ashkenas</authors>
+    <owners>Jeremy Ashkenas</owners>
+    <projectUrl>http://jashkenas.github.com/coffee-script/</projectUrl>
+    <iconUrl>https://nugetgallery.blob.core.windows.net/icons/CoffeeSharp.0.3.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is the original Javascript compiler written in Javascript. It will be added to your Scripts folder and you'll have to reference it where you want it.
+CoffeeScript is a little language that compiles into JavaScript. Underneath all of those embarrassing braces and semicolons, JavaScript has always had a gorgeous object model at its heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.</description>
+    <tags>coffeescript coffee-script javascript compiler coffee</tags>
+  </metadata>
+</package>

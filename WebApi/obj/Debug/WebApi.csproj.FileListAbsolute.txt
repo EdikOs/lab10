@@ -1,0 +1,479 @@
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\WebApi.dll.config
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\WebApi.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\WebApi.pdb
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Antlr3.Runtime.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\EntityFramework.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Newtonsoft.Json.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Owin.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Helpers.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Http.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Mvc.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Optimization.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Razor.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\WebGrease.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Helpers.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Mvc.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Optimization.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Razor.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Http.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\EntityFramework.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\obj\Debug\WebApi.dll
+D:\Study\Интярнеть\Lesson6\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Study\Lesson6\WebApi\WebApi\bin\WebApi.dll.config
+C:\Study\Lesson6\WebApi\WebApi\bin\WebApi.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\WebApi.pdb
+C:\Study\Lesson6\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\EntityFramework.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\Owin.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\WebGrease.dll
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\EntityFramework.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Study\Lesson6\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Study\Lesson6\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Study\Lesson6\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Study\Lesson6\WebApi\WebApi\obj\Debug\WebApi.pdb
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\WebApi.dll.config
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\WebApi.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\WebApi.pdb
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Antlr3.Runtime.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\EntityFramework.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Newtonsoft.Json.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Owin.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Helpers.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Http.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Mvc.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Optimization.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Razor.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.WebPages.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\WebGrease.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Helpers.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Mvc.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Optimization.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Razor.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.WebPages.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Http.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\EntityFramework.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\8семестр\ИП Звездин\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+H:\8семестр\ИП Звездин\WebApi\WebApi\obj\Debug\WebApi.dll
+H:\8семестр\ИП Звездин\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\WebApi.dll.config
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\WebApi.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\WebApi.pdb
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Owin.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Http.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\WebGrease.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Http.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rita\Desktop\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\Users\Rita\Desktop\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\WebApi.dll.config
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\WebApi.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\WebApi.pdb
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Owin.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Http.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\WebGrease.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Http.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\obj\Debug\WebApi.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\WebApi.dll.config
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\WebApi.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\WebApi.pdb
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\EntityFramework.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Owin.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Http.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Razor.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\WebGrease.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Razor.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Http.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\EntityFramework.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\obj\Debug\WebApi.dll
+C:\Users\Rita\Desktop\WebApi — копия — копия — копия — копия\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\WebApi.dll.config
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\WebApi.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\WebApi.pdb
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\EntityFramework.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Owin.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Http.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Razor.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\WebGrease.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Razor.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Http.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\EntityFramework.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Michael\Desktop\Web_API\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Web_API\WebApi\obj\Debug\WebApi.dll
+C:\Users\Michael\Desktop\Web_API\WebApi\obj\Debug\WebApi.pdb
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\WebApi.dll.config
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\WebApi.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\WebApi.pdb
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\EntityFramework.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Owin.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Helpers.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Http.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Mvc.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Optimization.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Razor.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.WebPages.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\WebGrease.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Helpers.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Mvc.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Optimization.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Razor.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.WebPages.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Http.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\EntityFramework.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\obj\Debug\WebApi.dll
+C:\Users\1\Desktop\lab 10 WEBAPI-master\WEBAPI-master\WebApi\obj\Debug\WebApi.pdb

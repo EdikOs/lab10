@@ -1,0 +1,67 @@
+﻿@{
+    ViewBag.Title = "Заказы";
+}
+
+<div ng-app="ordersApp" ng-controller="OrderListController">
+    <div class="col-sm-12">
+        <div class="panel panel-default">
+            <div class="panel-heading"><h3>Заказы</h3></div>
+            <div class="panel-default">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>
+                                Наименование
+                            </th>
+                            <th>
+                                Количество
+                            </th>
+                            <th>
+                                Адрес поставки
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr ng-repeat="order in orders">
+                            <td ng-bind="order.title" />
+                            <td ng-bind="order.count" />
+                            <td ng-bind="order.address" />
+                            <td><a ng-click="deleteOrder(order.id, $index)" class="btn btn-danger">Удалить</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+        <div class="col-sm-12">
+            <div class="panel panel-default">
+                <div class="panel-heading"><h3>Добавить заказ</h3></div>
+                <div class="panel-default">
+                    <form ng-submit="addOrder()">
+                        <div id="title-group">
+                            <label>Наименование</label>
+                            <input type="text" name="title" ng-model="newOrder.title" class="form-control" />
+                        </div>
+
+                        <div id="count-group">
+                            <label>Количество</label>
+                            <input type="number" ng-model="newOrder.count" name="count" class="form-control" />
+                        </div>
+
+                        <div id="address-group">
+                            <label>Адрес поставки</label>
+                            <input type="text" ng-model="newOrder.address" name="address" class="form-control" />
+                        </div>
+                        <hr />
+                        <button type="submit" class="btn btn-success">
+                            Добавить
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
